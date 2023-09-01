@@ -1,0 +1,77 @@
+A continuación se indican los resultados de la exploración de personalizaciones de la organización. Estas entradas representan personalizaciones existentes
+que contienen referencias a campos de estado o país/territorio. Debe actualizar manualmente
+estas personalizaciones cuando habilite la lista de selección de estado y país/territorio para su organización. Realizar las
+actualizaciones garantiza que su organización está utilizando campo basados en códigos para estados y países,
+en lugar de campos basados en texto.
+
+Este documento contiene datos separados por tabulaciones. Para obtener los mejores resultados, abra el documento en un editor de hojas de cálculos.
+
+Clase de Apex
+	Nombre	Espacio de nombres	Vínculo	Estado	Versión de API
+	QuoteAccountSearchController_Test	Ninguno	https://winkelmedia.my.salesforce.com/01p8a00000B3A48	Activo	55.0
+	QuoteAccountSearchController	Ninguno	https://winkelmedia.my.salesforce.com/01p8a00000B3A47	Activo	55.0
+	CartQuoteViewController	Ninguno	https://winkelmedia.my.salesforce.com/01p8a00000B3A44	Activo	55.0
+	QuoteMapController	Ninguno	https://winkelmedia.my.salesforce.com/01p8a00000B3A4B	Activo	55.0
+	QuoteLineItemTriggerHandler_Test	Ninguno	https://winkelmedia.my.salesforce.com/01p8a00000B3A4A	Activo	54.0
+
+Página de Visualforce
+	Nombre	Espacio de nombres	Vínculo	Versión de API
+	quoteMapContainer	Ninguno	https://winkelmedia.my.salesforce.com/0668a000003Buc0	55.0
+	storeMap	Ninguno	https://winkelmedia.my.salesforce.com/0668a000003Buc1	55.0
+
+No se han encontrado coincidencias en personalizaciones Desencadenador de Apex.
+
+No se han encontrado coincidencias en personalizaciones Regla de asignación.
+
+No se han encontrado coincidencias en personalizaciones Regla de respuesta automática.
+
+No se han encontrado coincidencias en personalizaciones Plantilla de email.
+
+No se han encontrado coincidencias en personalizaciones Regla de distribución.
+
+No se han encontrado coincidencias en personalizaciones Conjunto de campos.
+
+Vista de lista
+	Nombre	Espacio de nombres	Vínculo	Tipo de vista de lista
+	My Accounts	Ninguno	https://winkelmedia.my.salesforce.com/001?fcf=00B8a00000D4gmN	Account
+	All Accounts	Ninguno	https://winkelmedia.my.salesforce.com/001?fcf=00B8a00000D4gmQ	Account
+	Today's Leads	Ninguno	https://winkelmedia.my.salesforce.com/00Q?fcf=00B8a00000D4go2	Lead
+	All Open Leads	Ninguno	https://winkelmedia.my.salesforce.com/00Q?fcf=00B8a00000D4gmP	Lead
+
+Reporte
+	Nombre	Espacio de nombres	Vínculo	Tipo de reporte
+	Oportunidades para cierre mes actual	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjf	Oportunidades
+	Revenue de toda la compañía	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjg	Oportunidades
+	Revenue de toda la compañía	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjH	Oportunidades
+	Total de Pipeline por Gerentes/vende	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjh	Oportunidades
+	Total de Pipeline por Geren/vend/par	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjI	Oportunidades
+	Reporte ventas por Trimestre (Q)	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjj	Oportunidades
+	Winkel - Reporte Campañas/Oportunidades	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjl	Oportunidades
+	Numero de Campañas activas en país	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjM	Oportunidades
+	Revenue de toda la compañía	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjN	Oportunidades
+	Winkel - Reporte Edad de Oportunidades	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjn	Oportunidades
+	Winkel - Reporte de Oportunidades	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjo	Oportunidades
+	Total de Pipeline por Gerentes/ven/par	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjO	Oportunidades
+	Winkel - Reporte de Prospectos	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000008ygjp	Prospectos con información de los prospecto convertida
+	Marketing Exec Leads by Campaigns	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000007o4uF	Campañas con Prospectos
+	Sample Report: # of Contacts	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000007SeFt	Contactos y Cuentas
+	Sample Report: # of Accounts	Ninguno	https://winkelmedia.my.salesforce.com/00O8a000007SeG5	Cuentas
+
+No se han encontrado coincidencias en personalizaciones Proceso de asignación.
+
+Regla de validación
+	Nombre	Espacio de nombres	Vínculo	Entidad
+	Address_Required	Ninguno	https://winkelmedia.my.salesforce.com/03d8a000000Ib5d	Lead
+	AnotherCountryAccount	Ninguno	https://winkelmedia.my.salesforce.com/03d8a000000Ib5f	Opportunity
+	Address_Required	Ninguno	https://winkelmedia.my.salesforce.com/03d8a000000Ib5Z	Account
+
+Botón o vínculo personalizado
+	Nombre	Espacio de nombres	Vínculo	Entidad
+	GoogleMaps	Ninguno	https://winkelmedia.my.salesforce.com/00b8a000002I19o	Lead
+	GoogleMaps	Ninguno	https://winkelmedia.my.salesforce.com/00b8a000002I19m	Contact
+	GoogleMaps	Ninguno	https://winkelmedia.my.salesforce.com/00b8a000002I19i	Account
+
+No se han encontrado coincidencias en personalizaciones Regla de flujo de trabajo.
+
+No se han encontrado coincidencias en personalizaciones Regla de coincidencia.
+

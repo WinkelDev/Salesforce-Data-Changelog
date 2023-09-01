@@ -1,0 +1,3 @@
+"Id","IsDeleted","Name","CurrencyIsoCode","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","CompositeKeyId","Amount","AmountLowerBound","AmountHigherBound","Quantity","QuantityLowerBound","QuantityHigherBound","AsOfDate","ForecastingPredictionTrendType"
+"0OA8a000000xhUPGAY","0","","USD","2023-05-01 21:56:59","0058a00000LLuwkAAD","2023-05-01 21:56:59","0058a00000LLuwkAAD","2023-05-01 21:56:59","0G28a000006QoK4CAK","0.0","0.0","0.0","0","0","0","2023-05-01 00:00:00","Actual"
+"0OA8a000000xhUQGAY","0","","USD","2023-05-01 21:56:59","0058a00000LLuwkAAD","2023-05-01 21:56:59","0058a00000LLuwkAAD","2023-05-01 21:56:59","0G28a000006QkBYCA0","0.0","0.0","0.0","0","0","0","2023-05-01 00:00:00","Actual"

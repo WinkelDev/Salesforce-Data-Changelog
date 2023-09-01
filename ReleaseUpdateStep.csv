@@ -1,0 +1,7 @@
+"Id","IsDeleted","Name","CurrencyIsoCode","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","ReleaseUpdateId","Number","Status"
+"1RS8a00000052YSGAY","0","Check","MXN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","EnableEnhancedDomainsReleaseUpdate","1","Complete"
+"1RS8a00000052ruGAA","0","Enable","MXN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","EnableEnhancedDomainsReleaseUpdate","2","Complete"
+"1RS8a00000052rvGAA","0","Deploy","MXN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","EnableEnhancedDomainsReleaseUpdate","3","Complete"
+"1RS8a00000052rwGAA","0","UpdateFirst","MXN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","EnableEnhancedDomainsReleaseUpdate","4","New"
+"1RS8a00000052rxGAA","0","UpdateSecond","MXN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","EnableEnhancedDomainsReleaseUpdate","5","New"
+"1RS8a00000052ryGAA","0","Confirm","MXN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","0058a00000L2IR7AAN","2023-02-05 06:43:25","EnableEnhancedDomainsReleaseUpdate","6","New"

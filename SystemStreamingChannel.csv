@@ -1,0 +1,4 @@
+"Id","IsDeleted","Name","CurrencyIsoCode","CreatedDate","CreatedById","LastModifiedDate","LastModifiedById","SystemModstamp","IsDynamic","Description"
+"0MJ8a000000aOAJGA2","0","/s/notifications/notification","000","2022-05-25 20:38:02","0058a00000LLRscAAH","2022-05-25 20:38:02","0058a00000L2IR7AAN","2022-05-25 20:38:02","1","created dynamically upon subscription"
+"0MJ8a000000aOAKGA2","0","/s/notifications/readstate","000","2022-05-25 20:38:02","0058a00000LLRscAAH","2022-05-25 20:38:02","0058a00000L2IR7AAN","2022-05-25 20:38:02","1","created dynamically upon subscription"
+"0MJ8a000002jGphGAE","0","/s/chatter/mux","MXN","2022-12-21 14:56:01","0058a00000MNWuDAAX","2022-12-21 14:56:01","0058a00000L2IR7AAN","2022-12-21 14:56:01","1","created dynamically upon subscription"
